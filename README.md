@@ -1,3 +1,3 @@
 # RSP_COVID
 
-Code for Regional Interpretable Model for COVID-19 Survival Prediction
+Code for Region-specific Risk Quantification for Interpretable Prognosis of COVID-19
